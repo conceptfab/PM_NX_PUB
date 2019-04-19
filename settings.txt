@@ -1,0 +1,13 @@
+windows_work_folder = D:\*\_work
+macos_work_folder = /Users/*/*/_work
+projects_list = projects_list.json
+todoist_token = *
+settings_folder = 00_PM_NX
+language = PL
+login = *
+password = *
+gmail = *
+gpassword = *
+tomail = *
+
+
